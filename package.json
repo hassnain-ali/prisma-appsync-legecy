@@ -1,5 +1,5 @@
 {
-    "name": "prisma-appsync-lagecy",
+    "name": "prisma-appsync",
     "description": "Prisma Generator.",
     "version": "1.0.0",
     "bin": "./dist/generator.js",
