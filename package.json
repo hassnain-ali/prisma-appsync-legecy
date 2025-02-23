@@ -1,7 +1,7 @@
 {
     "name": "prisma-appsync",
     "description": "Prisma Generator.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "bin": "./dist/generator.js",
     "scripts": {
         "install:boilerplate": "cd boilerplate\\cdk && yarn install",
